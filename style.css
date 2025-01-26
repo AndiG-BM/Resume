@@ -73,6 +73,15 @@ h1 {
 	font-weight: bold;
 }
 
+.no-list {
+	list-style: none;
+	text-align: left;
+}
+
+.card-text {
+	text-align: left;
+}
+
 @media (min-width: 992px) {
 	.col-lg-6 {
 		flex: 0 0 auto;
